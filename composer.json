@@ -1,0 +1,20 @@
+{
+    "name": "smo/asana",
+    "description": "A Laravel wrapper for the ajimix asana api",
+    "authors": [
+        {
+            "name": "Sam Smo",
+            "email": "smolenski@brooklynunited.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.0",
+        "illuminate/support": "4.0.x"
+    },
+    "autoload": {
+        "psr-0": {
+            "Smo\\Asana": "src/"
+        }
+    },
+    "minimum-stability": "dev"
+}
