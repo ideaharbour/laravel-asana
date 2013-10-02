@@ -7,8 +7,11 @@ A wrapper for [ajimix's asana-api](https://github.com/ajimix/asana-api-php-class
 
 As per normal laravel package usage, you'd do something like 
 
-<code>$asana = new Smo\Asana\Asana('apikey');
-$asana->getProjects() // retrieves all the projects for your asana api key</code>
+<code>
+/* retrieve all asana projects */
+$asana = new Smo\Asana\Asana('apikey');
+$asana->getProjects();
+</code>
 
 ##Notes
 
