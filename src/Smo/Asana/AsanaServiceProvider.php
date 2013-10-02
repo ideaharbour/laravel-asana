@@ -31,7 +31,6 @@ class AsanaServiceProvider extends ServiceProvider {
 		//
 		$this->app['asana'] = $this->app->share(function($app)
             {
-            	var_dump($app);
                 return new Asana;
             });
 	}
