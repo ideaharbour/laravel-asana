@@ -1,5 +1,5 @@
 {
-    "name": "smo/asana",
+    "name": "samsmo/laravel-asana",
     "description": "A Laravel wrapper for the ajimix asana api",
     "authors": [
         {
