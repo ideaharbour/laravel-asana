@@ -1,5 +1,5 @@
 {
-    "name": "samsmo/laravel-asana",
+    "name": "ideaharbour/laravel-asana",
     "description": "A Laravel wrapper for the ajimix asana api",
     "authors": [
         {
@@ -8,8 +8,10 @@
         }
     ],
     "require": {
-        "php": ">=5.3.0",
-        "illuminate/support": "4.0.x"
+        "php": ">=5.4"
+    },
+    "require-dev": {
+        "illuminate/support": "~5"
     },
     "autoload": {
         "psr-0": {
