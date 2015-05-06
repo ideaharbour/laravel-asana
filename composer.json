@@ -1,10 +1,14 @@
 {
     "name": "ideaharbour/laravel-asana",
-    "description": "A Laravel wrapper for the ajimix asana api",
+    "description": "Fork of A Laravel wrapper for the ajimix asana api written by Sam smo for laravel5",
     "authors": [
         {
             "name": "Sam Smo",
             "email": "samsmolenski@gmail.com"
+        },
+        {
+            "name": "Abhishek",
+            "email": "abhi.ksrivastava@gmail.com"
         }
     ],
     "require": {
